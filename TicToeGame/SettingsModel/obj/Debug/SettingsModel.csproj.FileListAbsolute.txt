@@ -1,0 +1,16 @@
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\SettingsModel.dll
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\SettingsModel.pdb
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\obj\Debug\SettingsModel.csproj.AssemblyReference.cache
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\obj\Debug\SettingsModel.csproj.CoreCompileInputs.cache
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\obj\Debug\SettingsModel.dll
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\obj\Debug\SettingsModel.pdb
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\dotenv.net.dll
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Buffers.dll
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Memory.dll
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Buffers.xml
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Memory.xml
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\SettingsModel\obj\Debug\Settings.A9B14353.Up2Date

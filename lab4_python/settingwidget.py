@@ -10,7 +10,6 @@ class SettingWidget(QWidget):
         self.setup_ui()
         
     def setup_ui(self):
-        """Настройка пользовательского интерфейса."""
         layout = QGridLayout(self)
 
         enter_path_label = QLabel("Введите путь к таблице рекордов:", self)

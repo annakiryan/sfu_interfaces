@@ -1,0 +1,12 @@
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\bin\Debug\View.exe.config
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\bin\Debug\View.exe
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\bin\Debug\View.pdb
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.ViewMenu.resources
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.ViewSettings.resources
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.ViewStatistics.resources
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.exe
+C:\Users\annna\OneDrive\Документы\универ\интерфейсы\TicToeGame\View\obj\Debug\View.pdb

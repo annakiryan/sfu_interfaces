@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1D0C80-5BFB-42B3-8D3A-62F3FD4AEE13}|SettingsPresenter\\SettingsPresenter.csproj|c:\\users\\annna\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\tictoegame\\settingspresenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1D0C80-5BFB-42B3-8D3A-62F3FD4AEE13}|SettingsPresenter\\SettingsPresenter.csproj|solutionrelative:settingspresenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A324816-1BFF-44F5-82FF-F06D5873D897}|GamePresenter\\GamePresenter.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\gamepresenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A324816-1BFF-44F5-82FF-F06D5873D897}|GamePresenter\\GamePresenter.csproj|solutionrelative:gamepresenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69908E42-6518-461B-90FE-7D5C102581F9}|MenuPresenter\\MenuPresenter.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\menupresenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69908E42-6518-461B-90FE-7D5C102581F9}|MenuPresenter\\MenuPresenter.csproj|solutionrelative:menupresenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775BE448-B0F2-4172-A89A-FD985A5B8424}|SettingsModel\\SettingsModel.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\settingsmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775BE448-B0F2-4172-A89A-FD985A5B8424}|SettingsModel\\SettingsModel.csproj|solutionrelative:settingsmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97F194-0724-4B9E-B58A-DEB27239F584}|StatisticsModel\\StatisticsModel.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\statisticsmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE97F194-0724-4B9E-B58A-DEB27239F584}|StatisticsModel\\StatisticsModel.csproj|solutionrelative:statisticsmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D5D00-0A32-453E-9989-9E798113FF8A}|SettingsView\\SettingsView.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\settingsview\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D5D00-0A32-453E-9989-9E798113FF8A}|SettingsView\\SettingsView.csproj|solutionrelative:settingsview\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D93D48B-65C6-4623-904E-2CA4ACF5D0FF}|GameModel\\GameModel.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\gamemodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D93D48B-65C6-4623-904E-2CA4ACF5D0FF}|GameModel\\GameModel.csproj|solutionrelative:gamemodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7887509A-32D2-4814-9644-89BFC44B0B74}|GameView\\GameView.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\gameview\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7887509A-32D2-4814-9644-89BFC44B0B74}|GameView\\GameView.csproj|solutionrelative:gameview\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97F194-0724-4B9E-B58A-DEB27239F584}|StatisticsModel\\StatisticsModel.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\statisticsmodel\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE97F194-0724-4B9E-B58A-DEB27239F584}|StatisticsModel\\StatisticsModel.csproj|solutionrelative:statisticsmodel\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7887509A-32D2-4814-9644-89BFC44B0B74}|GameView\\GameView.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\gameview\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7887509A-32D2-4814-9644-89BFC44B0B74}|GameView\\GameView.csproj|solutionrelative:gameview\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7887509A-32D2-4814-9644-89BFC44B0B74}|GameView\\GameView.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\gameview\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7887509A-32D2-4814-9644-89BFC44B0B74}|GameView\\GameView.csproj|solutionrelative:gameview\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69908E42-6518-461B-90FE-7D5C102581F9}|MenuPresenter\\MenuPresenter.csproj|C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\menupresenter\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69908E42-6518-461B-90FE-7D5C102581F9}|MenuPresenter\\MenuPresenter.csproj|solutionrelative:menupresenter\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\SettingsView\\View.cs",
+              "RelativeDocumentMoniker": "SettingsView\\View.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\SettingsView\\View.cs",
+              "RelativeToolTip": "SettingsView\\View.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:19:19.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Presenter.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\SettingsPresenter\\Presenter.cs",
+              "RelativeDocumentMoniker": "SettingsPresenter\\Presenter.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\SettingsPresenter\\Presenter.cs",
+              "RelativeToolTip": "SettingsPresenter\\Presenter.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:20:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Presenter.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\MenuPresenter\\Presenter.cs",
+              "RelativeDocumentMoniker": "MenuPresenter\\Presenter.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\MenuPresenter\\Presenter.cs",
+              "RelativeToolTip": "MenuPresenter\\Presenter.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAawDQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:12:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\SettingsModel\\Model.cs",
+              "RelativeDocumentMoniker": "SettingsModel\\Model.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\SettingsModel\\Model.cs",
+              "RelativeToolTip": "SettingsModel\\Model.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:40:29.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameOverForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameView\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "GameView\\GameOverForm.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameView\\GameOverForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameView\\GameOverForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:29:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\StatisticsModel\\DAL.cs",
+              "RelativeDocumentMoniker": "StatisticsModel\\DAL.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\StatisticsModel\\DAL.cs",
+              "RelativeToolTip": "StatisticsModel\\DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:06:04.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\MenuPresenter\\EntryPoint.cs",
+              "RelativeDocumentMoniker": "MenuPresenter\\EntryPoint.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\MenuPresenter\\EntryPoint.cs",
+              "RelativeToolTip": "MenuPresenter\\EntryPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:15:34.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\StatisticsModel\\Model.cs",
+              "RelativeDocumentMoniker": "StatisticsModel\\Model.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\StatisticsModel\\Model.cs",
+              "RelativeToolTip": "StatisticsModel\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:00:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameOverForm.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameView\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "GameView\\GameOverForm.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameView\\GameOverForm.cs",
+              "RelativeToolTip": "GameView\\GameOverForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:43:39.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameView\\View.cs",
+              "RelativeDocumentMoniker": "GameView\\View.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameView\\View.cs",
+              "RelativeToolTip": "GameView\\View.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAlwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:39:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameModel\\Model.cs",
+              "RelativeDocumentMoniker": "GameModel\\Model.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GameModel\\Model.cs",
+              "RelativeToolTip": "GameModel\\Model.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:36:45.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Presenter.cs",
+              "DocumentMoniker": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GamePresenter\\Presenter.cs",
+              "RelativeDocumentMoniker": "GamePresenter\\Presenter.cs",
+              "ToolTip": "C:\\Users\\annna\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044B\\TicToeGame\\GamePresenter\\Presenter.cs",
+              "RelativeToolTip": "GamePresenter\\Presenter.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:28:59.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
